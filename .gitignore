@@ -1,0 +1,9 @@
+# File patterns to ignore
+*links.html
+*download.png
+*.txt
+*.ttf
+*.svg
+
+# Folder to ignore
+/images/

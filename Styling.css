@@ -1,0 +1,305 @@
+@font-face {
+    font-family: myfonts;
+    src: url(HEADER-ELEMENTS.ttf);
+}
+@font-face {
+    font-family: myfont;
+    src: url(OSEI.otf);
+}
+@font-face {
+    font-family: myfonth;
+    src: url(Header2.ttf);
+}
+@font-face {
+    font-family: mymedia;
+    src: url(social\ media.ttf);
+}
+@font-face {
+    font-family: connect;
+    src: url(connect.ttf);
+}
+@font-face {
+    font-family: lead;
+    src: url(lead.ttf);
+}
+@font-face {
+    font-family: use7;
+    src: url(USE6.ttf);
+}
+.me{
+    text-decoration: none;
+    color: #616161;
+}
+.footlist li{
+    padding-left: 10em;
+}
+.gm{
+    font-family: mymedia;
+}
+*{
+    box-sizing: border-box;
+    font-family: Raleway;
+    color: #777;
+} 
+.homesec{
+    background-image: url(images/home.jpg);
+    background-size: cover;
+    padding: 0em;
+}
+.ep{
+    color: green;
+    font-size: 1.5em;
+}
+
+.premhead{
+    text-align: center;
+    color: green;
+    font-family:myfont;
+    font-size: 2em;
+
+}
+.premp1{
+    color: yellowgreen;
+}
+.li{
+        text-align: center;
+        color: white;
+        font-family:myfont;      
+}
+.premp{
+    color: green;
+    text-align: center;
+    font-family: myfonts;
+    font-size: 1.8em;
+} 
+.prempehpic22{
+    border-radius: 10%;
+    background-size: cover;
+}
+.prempehpic1{
+    margin: 0 1.5em;
+}
+
+.divprempic{
+    text-align: center;
+    max-width: 100000px;
+}
+.prempehpic1{
+    float: left;
+    border-radius: 20%;
+}
+.prempehpic{
+    border-radius: 30px;
+}
+
+.knustdiv{
+    background-color: white;
+    padding-bottom: .5em;
+    padding-top: 4em;
+    background-size: cover;
+}
+.prempehdiv{
+    background-color: white;
+    padding-bottom: 4em;
+    padding-top: .1em;
+}
+.prempehsec{
+    max-width: 1100px;
+    margin: auto;
+}
+button{
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, .1);
+    border-color: white;
+    color: yellow;
+    padding: .5em 5%;
+    font-size: .7em;
+}
+button:hover{
+    background-color: rgba(255, 255, 255, .3);
+}
+.joysec{
+    max-width: 1100px;
+    margin: auto;
+}
+.joydiv{
+    background-color: white;
+    padding-bottom: 2em;
+}
+.p2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.secheadE{
+    color: green;
+}
+.USAGpic{
+    border-radius: 15%;
+    float: left;
+    margin: 15px;
+}
+
+.USAGsec{
+   
+    max-width: 1100px;
+    margin: 0 auto;  
+}
+.p1{
+    color: black;
+}
+.Experiencesec{
+    max-width: 1300px;
+    margin: auto;
+    text-align: center;
+    background-image: url(images/adinkra.jpg);
+    background-size: cover;
+}
+.footp{
+  
+    padding-left: 3em;
+    font-size: 1.5em;
+    font-family: myfonts;
+    color: green;
+}
+.footlist{
+    text-align: left;
+    display: flex;
+    flex-grow: 1;
+
+}
+.footlist{
+    display: inline;
+    text-decoration: none;
+}
+.social{
+    color: green;
+    text-decoration: none;
+}
+.social:hover{
+    color: #4FA85F;
+}
+.footflex{
+    display: flex;
+}
+.footflex li{
+    display: flex;
+    margin: .7em;
+    color: green;
+ }
+.foothead{
+    color: white;
+    font-size: 2em;
+}
+.footh{
+    font-family: myfont ;
+    color: green;
+    font-size: 1em;
+    padding-left: 2em;
+    
+}
+.skilldiv{
+    padding-left: 10em;
+}
+footer{
+    background-color: #9DF9FA;
+    display: flex;
+    margin-top: 1em;
+    padding-top: 2em;
+    padding-bottom: .1em;
+}
+.pimage{
+ float: left; 
+ margin: 15px;  
+ border-radius: 10%;
+}
+
+.edu{
+    float: left; 
+    margin: 15px;  
+    border-radius: 10%;
+   }
+   .edu1{
+    float: left; 
+    margin: 40px;  
+    border-radius: 10%;
+   }
+   
+.sechead{
+    font-family:myfonts;
+    color: black;
+    font-size: 2em;
+    text-align: center;
+    
+}
+h2{
+    color: green;
+}
+.secdiv{
+   background-color: white;
+    padding-bottom: 2em;
+    padding-right: 0em;
+    margin-top: 1em;
+    margin-bottom: .1em;
+}
+.sec{
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 1.5em;
+ 
+}
+.lih{
+    color: #4FA85F;
+    text-decoration: none;
+    font-family: myfont;
+}
+.nav li{
+    display: inline;
+    padding: 0 5%;
+    color: white;
+    font-family: myfont;
+}
+.nav ul{
+    text-align: center; 
+    font-size: 1.3em;
+    border-bottom: 1.5px solid rgba(255, 255, 255, .3);
+    cursor: pointer;
+    text-decoration: none;
+}
+.nav li:hover{
+    background-color: rgba(255, 255, 255, .3);
+}
+.osei{
+    text-align: center;
+    margin: 0;
+    font-size: 3em;
+    font-family:myfonth;
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+    
+}
+
+.USAGp{
+    color: black;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 0;
+}
+
+p{
+font-size: 1.3em;
+font-family: use7;
+color: #303030;
+}
+
+.head{ 
+    background-image: url(images/backi.jpg);
+    padding-bottom: 50px;
+    background-size: cover;
+    padding-top: 2em; 
+}
